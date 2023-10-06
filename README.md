@@ -8,7 +8,7 @@ My name is Eniola Ipoola, and I love building mobile applications using Kotlin.
 
 
 - 🔭 I’m currently working on a pet project Movies App on my profile. I am trying to rewrite the project to have a better user experience and project structure.
-- ⚡ Fun fact about me; I am not as quiet as some people think.
+- ⚡ Fun fact about me: I am not as quiet as people think, I make friends easily.
 
 
 [Where to find me](https://github.com/eniolaipoola)
