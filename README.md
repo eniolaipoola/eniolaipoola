@@ -12,8 +12,8 @@ My name is Eniola Ipoola, and I love building mobile applications using Kotlin.
 
 
 [Where to find me](https://github.com/eniolaipoola)
-![LinkedIn!](https://github.com/eniolaipoola/eniolaipoola/assets/19291341/c41ba5ba-4c1b-43b3-9a4a-53671afa9fd8 "LinkedIn")
-![Twitter!](https://github.com/eniolaipoola/eniolaipoola/assets/19291341/c41ba5ba-4c1b-43b3-9a4a-53671afa9fd8 "LinkedIn")
+- [LinkedIn](https://www.linkedin.com/in/eniolaipoola/)
+- [Twitter](https://twitter.com/EIpoola)
 
 
 
