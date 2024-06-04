@@ -4,7 +4,7 @@ My name is Eniola Ipoola, and I love building mobile applications using Kotlin o
 
 <!--[![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolaipoola&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolaipoola&show_icons=true&theme=dark)](https://github.com/eniolaipoola/readme-stats)
+<!--[![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolaipoola&show_icons=true&theme=dark)](https://github.com/eniolaipoola/readme-stats)-->
 
 
 <!--- 🔭 I’m working on a pet project Movies App on my profile. Where I will be re-implementing the project to have a better user experience and project structure.
