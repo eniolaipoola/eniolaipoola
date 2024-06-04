@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eniola Ipoola, and I love building mobile applications using Kotlin or Java. 
+My name is Eniola Ipoola, and I build scalable and testable Android applications using Kotlin or Java. 
 
 <!--[![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolaipoola&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
