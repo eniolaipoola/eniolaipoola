@@ -17,9 +17,10 @@ Here is a link to projects I have developed or contributed to here:  [Portfolio]
 <!--[![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolaipoola&show_icons=true&theme=dark)](https://github.com/eniolaipoola/readme-stats) -->
 
 [Where to find me](https://github.com/eniolaipoola)
+- [Email](mailto:eniolaipoola@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/eniolaipoola/)
 - [Twitter](https://twitter.com/EIpoola)
-- [Email](mailto:eniolaipoola@gmail.com)
+- [Medium](https://medium.com/@eniolaipoola)
 
 
 
